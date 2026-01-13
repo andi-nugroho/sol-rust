@@ -1,0 +1,16 @@
+[package]
+name = "sol-rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+poem = "3.1.11"
+tokio = {version = "1.45.1", features = ["full"]}
+bs58 = "0.5.1"
+solana-sdk = "1.15.2"
+solana-client = "1.15.2"
+solana-program = "1.15.2"
+borsh = "0.10.3"
+serde = { version = "1.0.219", features = ["derive"] }
+serde_json = "1.0.140"
+chrono = "0.4.41"
