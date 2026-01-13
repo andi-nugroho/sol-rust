@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-blueshift_anchor_vault = "22222222222222222222222222222222222222222222"
+blueshift_anchor_escrow = "ACWvcXKhhAMoPTmx1rXaPkmgn4FaqvCH5St3kiQEDL5x"
 
 [registry]
 url = "https://api.apr.dev"
